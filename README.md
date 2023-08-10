@@ -9,8 +9,8 @@ Landmark detection of the proximal femur from CT Images
 
 # Segmented landmarks
 Landmarks listed below would be segmented.
-1. head center 
-2. neck center
+  <dt>1. head center</dt>
+  <dt>2. neck center</dt>
   <dt>3- 6. head neck junction (superior, anterior, inferior, posterior)</dt>
   <dt>7. lesser trochanter</dt>
   <dt>8. 2cm below the lesser trochanter</dt>
